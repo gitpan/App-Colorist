@@ -31,4 +31,4 @@ requires:
 resources:
   bugtracker: http://rt.cpan.org/NoAuth/Bugs.html?Dist=App-Colorist
   repository: git://github.com/zostay/App-Colorist.git
-version: '0.141730'
+version: '0.141740'

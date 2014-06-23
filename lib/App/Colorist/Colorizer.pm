@@ -1,5 +1,5 @@
 package App::Colorist::Colorizer;
-$App::Colorist::Colorizer::VERSION = '0.141730';
+$App::Colorist::Colorizer::VERSION = '0.141740';
 use Moose;
 
 use Carp;
@@ -257,7 +257,7 @@ sub refresh_ruleset_file {
     }
 }
 
-Readonly my %color_names = (
+Readonly my %color_names => (
     black  => 0, gray    => 8,
     maroon => 1, red     => 9,
     green  => 2, lime    => 10,
@@ -562,7 +562,7 @@ App::Colorist::Colorizer - the brain behind App::Colorist
 
 =head1 VERSION
 
-version 0.141730
+version 0.141740
 
 =head1 SYNOPSIS
 
