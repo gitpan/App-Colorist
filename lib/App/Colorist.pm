@@ -1,5 +1,5 @@
 package App::Colorist;
-$App::Colorist::VERSION = '0.141740';
+$App::Colorist::VERSION = '0.141760';
 use Moose;
 
 with 'MooseX::Getopt';
@@ -154,7 +154,7 @@ App::Colorist - Add color to your plain old outputs
 
 =head1 VERSION
 
-version 0.141740
+version 0.141760
 
 =head1 DESCRIPTION
 

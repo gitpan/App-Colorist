@@ -1,5 +1,5 @@
 package App::Colorist::Colorizer;
-$App::Colorist::Colorizer::VERSION = '0.141740';
+$App::Colorist::Colorizer::VERSION = '0.141760';
 use Moose;
 
 use Carp;
@@ -562,7 +562,7 @@ App::Colorist::Colorizer - the brain behind App::Colorist
 
 =head1 VERSION
 
-version 0.141740
+version 0.141760
 
 =head1 SYNOPSIS
 

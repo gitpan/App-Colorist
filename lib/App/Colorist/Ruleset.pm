@@ -1,5 +1,5 @@
 package App::Colorist::Ruleset;
-$App::Colorist::Ruleset::VERSION = '0.141740';
+$App::Colorist::Ruleset::VERSION = '0.141760';
 use Moose ();
 use Moose::Exporter;
 
@@ -42,7 +42,7 @@ App::Colorist::Ruleset - Helper syntax for building colorist rulesets
 
 =head1 VERSION
 
-version 0.141740
+version 0.141760
 
 =head1 SYNOPSIS
 
